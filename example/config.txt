@@ -1,0 +1,2 @@
+Prefix plugins/Circlator/example
+Plugin Circlator inputfile parameters.txt outputfile outputCirculator

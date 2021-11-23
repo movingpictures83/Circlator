@@ -1,0 +1,2 @@
+fastafile	scaffolds.fasta
+reads	reads.fasta
